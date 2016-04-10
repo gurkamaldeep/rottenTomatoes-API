@@ -1,0 +1,10 @@
+NOTE: sqlite3 does not require data type value so I defined just the data type.
+
+Creating a schema:
+conn = sqlite3.connect('moviedb')
+cur = conn.cursor()
+
+creating tables:
+CREATE TABLE IF NOT EXISTS theaterMovie (name TEXT, description TEXT, year INTEGER, cast TEXT)
+
+CREATE TABLE IF NOT EXISTS castinfo (name TEXT, description TEXT)
