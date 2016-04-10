@@ -1,6 +1,6 @@
 {
   "name": "Rottentomatoes-api",
   "tagline": "getting attributes of the films currently in theaters and then storing into a relational database (sqlite3) using python.",
-  "body": "###Description  \r\nThis project uses the rottentomatoes API to get a list of attributes and then store that information into a relational Database. It is written in python 2.7.\r\n\r\n### Authors and Contributors\r\nGurkamal Rakhra (@gurkamaldeep)\r\n\r\n### Support or Contact\r\nHaving trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.\r\n",
+  "body": "###Description  \r\nThis project uses the rottentomatoes API to get a list of attributes and then store that information into a relational Database. It is written in python 2.7.\r\n\r\n### Authors and Contributors\r\nGurkamal Rakhra (@gurkamaldeep)\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
